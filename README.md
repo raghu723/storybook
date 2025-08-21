@@ -172,7 +172,7 @@ Edit
 📤 Deployment
 Storybook can be deployed via Chromatic or Vercel.
 
-🔗 Live Storybook Preview: Add your link here
+🔗 Live Storybook Preview: https://storybook-pi-kohl.vercel.app/?path=/docs/components-inputfield--docs
 
 # 🚀 Components
 
