@@ -19,7 +19,7 @@ A flexible input component with multiple states, variants, and accessibility sup
 - Light/Dark theme support  
 
 📸 Demo:  
-![InputField Demo](./src/assets/inputfield-demo.png)
+![InputField Demo](./src/assets/InputFieldDemo.png)
 
 ---
 
@@ -34,7 +34,7 @@ A customizable data table with sorting, selection, and state handling.
 - Customizable columns  
 
 📸 Demo:  
-![DataTable Demo](./src/assets/datatable-demo.png)
+![DataTable Demo](./src/assets/DataTable.png)
 
 ---
 
