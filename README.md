@@ -19,7 +19,7 @@ A flexible input component with multiple states, variants, and accessibility sup
 - Light/Dark theme support  
 
 📸 Demo:  
-![InputField Demo](./src/assets/InputFieldDemo.png)
+![InputField Demo](./src/assets/inputFieldDemo.png)
 
 ---
 
